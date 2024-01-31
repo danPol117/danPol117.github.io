@@ -1,0 +1,119 @@
+
+/*
+    Daniel Pol 
+    10/03/2023
+    IT202-003
+    Unit 3 Assignment
+    dmp@njit.edu
+ */
+
+/* HEADER STUFF*/
+/* HEADER STUFF*/
+/* HEADER STUFF*/
+
+.topnav {
+    background-color: #28221D;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #8F867E;
+    color: black;
+  }
+  
+  
+
+/* FOOTER STUFF*/
+/* FOOTER STUFF*/
+/* FOOTER STUFF*/
+footer{
+    font-size: 90%;
+    text-align: right; 
+    margin:1;
+    background-color: #B1A89E;
+    padding:1;
+    border: 5px solid #7E766E ;
+ 
+}
+/* HOMEPAGE STUFF*/
+/* HOMEPAGE STUFF*/
+/* HOMEPAGE STUFF*/
+.gallery{
+    width: 320;
+    height: 200;
+    
+    margin-left: 23;
+    margin-right: auto;
+}
+
+/* SHIPPING STUFF*/
+/* SHIPPING STUFF*/
+/* SHIPPING STUFF*/
+
+.border{
+    background-color: #F4F1EE;
+    border: 5px solid #7E766E ;
+    display: inline-block;
+    width: max-content;
+    margin: 0 auto; 
+    padding: 10px;  
+}
+
+.border2{
+  background-color: #F4F1EE;
+  border-top: #7E766E solid 5px;
+  padding: 1em;
+  margin: 0 -.62em;
+ 
+}
+
+.container {
+  display: flex;
+  align-items: center; 
+}
+
+form {
+  flex: 1;
+  padding: 20px;
+  margin-left: 20px;
+}
+
+.centerbox{
+  text-align: center;
+}
+
+/* MISC STUFF*/
+/* MISC STUFF*/
+/* MISC STUFF*/
+.center{
+    text-align: center;
+}
+
+body{
+    background-color: #E5DACF;
+}
+
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+}
+#centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  padding: 2px;
+  text-align: center;
+}
+
